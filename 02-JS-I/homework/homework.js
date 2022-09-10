@@ -57,13 +57,20 @@ function resta(x, y) {
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
+  x=9, y=3;
+  multiplica=9*3;
+  return
+
   
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  
+  x=8, y=4;
+  divide=8/4;
+  return
+
 }
 
 function sonIguales(x, y) {
